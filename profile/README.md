@@ -1,6 +1,6 @@
 # 大模型攻与防
 
-[简体中文](简体中文) | [English](English) 
+[简体中文](https://github.com/llm-sec/.github/blob/main/profile/README.md) | [English](https://github.com/llm-sec/.github/blob/main/profile/README_en.md) 
 
 ## 愿景
 
