@@ -10,7 +10,9 @@
 
 扫码加入大模型安全交流群：
 
-<img src="./README.assets/image-20240929204600904.png" width="300px">
+<img src="./README.assets/image-20241010001328077.png" width="300px">
+
+
 
 如群二维码过期，可以加我个人微信，发送【大模型安全】拉你进群：
 

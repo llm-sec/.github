@@ -20,8 +20,7 @@ Click the link [https://t.me/+E1VNGzq5ev8yMWNl](https://t.me/+E1VNGzq5ev8yMWNl) 
 
 Scan the QR code to join the large model safety exchange group:
 
-<img src="./README.assets/image-20240929204600904.png" width="300px">
-
+<img src="./README.assets/image-20241010001328077.png" width="300px">
 If the group QR code expires, you can add my personal WeChat and send [Large Model Security] to join the group:
 
 <img src="./README.assets/image-20231030132026541-7614065.png" width="300px">
