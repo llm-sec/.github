@@ -1,6 +1,6 @@
 # 大模型攻与防
 
-[简体中文](https://github.com/llm-sec/.github/blob/main/profile/README.md) | [English](https://github.com/llm-sec/.github/blob/main/profile/README_en.md) 
+简体中文 | [English](https://github.com/llm-sec/.github/blob/main/profile/README_en.md) 
 
 ## 愿景
 
@@ -18,11 +18,7 @@
 
 <img src="./README.assets/cc11001100-weixin-rq-code.png" width="200px">
 
-## TG交流群
 
-点击链接 [https://t.me/+E1VNGzq5ev8yMWNl](https://t.me/+E1VNGzq5ev8yMWNl) 或扫码加入：
-
-<img src="README.assets/tg-group-qr-code.png" width="200px">
 
 
 
